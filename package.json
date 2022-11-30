@@ -1,6 +1,6 @@
 {
     "name": "centered-div",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "React Centered Div Component for npm",
     "main": "./lib/CenteredDiv.js",
     "license": "MIT",

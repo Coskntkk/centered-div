@@ -30,6 +30,11 @@ No options required.
 
 This project has not been **tested**. 
 
+## Website
+
+- [GitHub]( https://github.com/Coskntkk/centered-div )
+- [NPM]( https://www.npmjs.com/package/centered-div )
+
 ## Disclaimer
 
 It is a simple component that created for a joke on my Twitter. Maybe I will improve this component in the future.
